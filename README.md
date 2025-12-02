@@ -32,7 +32,7 @@ The K-Means algorithm was chosen because the problem requires **discovery** of g
 
 ### Model Justification (K-Means vs. DBSCAN)
 
-K-Means was compared against DBSCAN. K-Means was selected because it yielded a higher **Silhouette Score** and produced clusters with clearer, more spherical separation, which aligns better with the need for easily defined student segments.
+K-Means was selected because it yielded a higher **Silhouette Score** and produced clusters with clearer, more spherical separation, which aligns better with the need for easily defined student segments.
 
 ##  Key Project Steps
 
